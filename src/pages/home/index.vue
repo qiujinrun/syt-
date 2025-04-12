@@ -39,9 +39,7 @@
 //引入组合式API函数
 import { onMounted, ref } from 'vue';
 import { reqHospital } from '@/api/home/index';
-
 import Carousel from './carousel/index.vue';
-
 import Search from './search/index.vue';
 //引入首页等级
 import Level from './level/index.vue'
@@ -51,8 +49,8 @@ import Region from './region/index.vue'
 //展示医院的组件
 import Card from './card/index.vue'
 import { Content, HospitalResponseData } from '@/api/home/type';
-
 import Tip from '@/pages/home/tip/index.vue'
+
 
 //分页器需要的数据
 // import { ref } from 'vue';
