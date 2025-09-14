@@ -109,7 +109,8 @@ const getRegion1 = (region: string) => {
   getHospitalInfo();
 }
 
-console.log(111)
+console.log(333)
+console.log(222)
 </script>
 
 
