@@ -110,6 +110,7 @@ const getRegion1 = (region: string) => {
 }
 
 console.log(111)
+console.log(222)
 </script>
 
 
