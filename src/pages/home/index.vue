@@ -108,6 +108,7 @@ const getRegion1 = (region: string) => {
   //再次发送请求
   getHospitalInfo();
 }
+
 console.log(111)
 </script>
 
